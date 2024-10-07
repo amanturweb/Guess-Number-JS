@@ -24,5 +24,5 @@ If you have any questions or feedback, reach out to me at amanturkubanychbekov5@
 
 📸 Screenshot
 ![view](./img/Screenshot.png) .
-![view](./images/winCase.png) .
+![view](./img/winCase.png) .
 
